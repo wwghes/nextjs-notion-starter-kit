@@ -10,7 +10,6 @@ export const GitHubShareButton: React.FC = () => {
       rel='noopener noreferrer'
       className={styles.githubCorner}
       aria-label='View source on GitHub'
-      style="display:none"
     >
       <svg
         width='80'
